@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript com foco no Back-End.  
 - 🚀 Participante do programa **DIO Campus Expert - Turma 12**  
 - 🛠️ Conhecimentos em HTML, Git/GitHub e JavaScript
-- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-f-2707b7311/)  
+- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-r/)  
 - ⚡ Curiosidade: Minha transição para a área de TI nasceu da vontade de entender como as coisas funcionam por trás das telas e pelo apreço que tenho pela área de exatas — e estou adorando o processo!
 
 ---
